@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovative Applications
-author: [Richard Kuo]
+author: [Kevin Yue]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
